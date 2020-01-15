@@ -1,6 +1,6 @@
 ---
 title: Hello World
-categories: image-process
+categories: algorithm
 ---
 Hello World!
 
